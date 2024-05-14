@@ -15,5 +15,5 @@
 
 ## Conclusiones
 
-## Bibliografía
+### Referencias y bibliografía
 - Manovich, Lev. (2013). *El Software toma el mando.* Barcelona: Editorial UOC.
