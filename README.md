@@ -2,7 +2,7 @@
  > Notion y Slack a través de las gafas de Manovich
 
 ## Introducción
-La **hibridación mediática** emerge como un fenómeno de gran impacto en la manera en la que concebimos, consumimos y creamos contenido digital. Este concepto, desde el punto de vista de Lev Manovich, no solo abarca la unión de medios digitales en una sola plataforma, sino que también redefine nuestra relación con la información, la comunicación y el entorno digital.
+La **hibridación mediática** emerge como un fenómeno de gran impacto en la manera en que concebimos, consumimos y creamos contenido digital. Este concepto, desde el punto de vista de Lev Manovich, no solo abarca la unión de medios digitales en una sola plataforma, sino que también redefine nuestra relación con la información, la comunicación y el entorno digital.
 
 Manovich nos invita a observar la hibridación como un proceso evolutivo que va más allá de la mera fusión de medios. Los límites entre texto, imagen, sonido y movimiento se vuelven difusos, dando lugar a nuevas formas de expresión y experiencia. Esta combinación de medios no solo transforma la manera en que accedemos a la información, sino que también afecta la forma en que somos en internet y cómo nos relacionamos.
 
