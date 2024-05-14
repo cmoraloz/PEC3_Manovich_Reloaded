@@ -3,6 +3,7 @@
 
 ## Introducción
 
+
 ### Hibridación de medios
 
 ## Re-descubriendo la hibridacion: Notion
@@ -15,3 +16,4 @@
 ## Conclusiones
 
 ## Bibliografía
+- Manovich, Lev. (2013). *El Software toma el mando.* Barcelona: Editorial UOC.
