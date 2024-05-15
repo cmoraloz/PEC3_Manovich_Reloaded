@@ -19,5 +19,10 @@ En este ensayo, exploraremos el fenómeno de la hibridación mediática desde el
 
 ## Conclusiones
 
-### Referencias y bibliografía
-- Manovich, Lev. (2013). *El Software toma el mando.* Barcelona: Editorial UOC.
+### Bibliografía
+- Manovich, Lev. (2013). Barcelona: Editorial UOC. *El Software toma el mando.* 
+
+### Webgrafía
+- Muñoz-Justicia, Juan (2014): *Conocimiento Abierto y Tecnología*: https://juan.psicologiasocial.eu/conocimiento-y-tecnologia
+- Ferran Adell Español (2024). 1.ª ed. Barcelona: Universitat Oberta de Catalunya (FUOC): *Fundamentos y evolución de la multimedia*: https://cultura-digital.aula.uoc.edu/es/
+- Ferran Adell Español (2015). Barcelona: Universitat Oberta de Catalunya *Remediación, multimedia e hibridación de los medios*: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
