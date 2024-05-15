@@ -13,9 +13,12 @@ En este ensayo, exploraremos el fenómeno de la hibridación mediática desde el
 ## Re-descubriendo la hibridacion: Notion
 ![Notion](https://i0.wp.com/get.site/wp-content/uploads/2021/10/notion-logo.png?ssl=1) 
 
+Notion es una plataforma de gestión de tareas que ejemplifica la hibridación mediática según la visión de Manovich. Integrando elementos de texto, imágenes, videos y bases de datos, Notion proporciona a los usuarios un espacio multifuncional donde pueden organizar, colaborar y crear contenido de manera fluida. Desde la creación de documentos y listas de tareas hasta la gestión de proyectos complejos, Notion permite a los usuarios combinar diferentes medios y funcionalidades para adaptarse a sus necesidades individuales. Esta convergencia mejora la productividad y transforma la experiencia del usuario al proporcionar un entorno versátil para la colaboración y la creatividad.
+
 ## Re-descubriendo la hibridacion: Slack
 ![Slack](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/498px-Slack_Technologies_Logo.svg.png) 
 
+Slack, otra aplicación de gestión de tareas, también refleja los principios de hibridación mediática de Manovich. Al combinar mensajería instantánea, integraciones de aplicaciones y herramientas de colaboración en equipo, Slack ofrece a los usuarios un espacio digital unificado para la comunicación y la coordinación. La plataforma permite la integración de diversos medios, como texto, imágenes, archivos y enlaces, dentro de conversaciones en tiempo real y canales. Esta hibridación de medios no solo facilita la comunicación entre equipos distribuidos, sino que también favorece la interacción al permitir compartir de información de manera rápida.
 
 ## Conclusiones
 
