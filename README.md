@@ -26,6 +26,8 @@ Slack, otra aplicación de gestión de tareas, también refleja los principios d
 - Manovich, Lev. (2013). Barcelona: Editorial UOC. *El Software toma el mando.* 
 
 ### Webgrafía
-- Muñoz-Justicia, Juan (2014): *Conocimiento Abierto y Tecnología*: https://juan.psicologiasocial.eu/conocimiento-y-tecnologia
-- Ferran Adell Español (2024). 1.ª ed. Barcelona: Universitat Oberta de Catalunya (FUOC): *Fundamentos y evolución de la multimedia*: https://cultura-digital.aula.uoc.edu/es/
-- Ferran Adell Español (2015). Barcelona: Universitat Oberta de Catalunya *Remediación, multimedia e hibridación de los medios*: http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+- Muñoz-Justicia, Juan (2014): *Conocimiento Abierto y Tecnología*: [Enlace](https://juan.psicologiasocial.eu/conocimiento-y-tecnologia)
+- Ferran Adell Español (2024). 1.ª ed. Barcelona: Universitat Oberta de Catalunya (FUOC): *Fundamentos y evolución de la multimedia* [Enlace](https://cultura-digital.aula.uoc.edu/es/)
+- Ferran Adell Español (2015). Barcelona: Universitat Oberta de Catalunya *Remediación, multimedia e hibridación de los medios* [Enlace](http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/)
+- Alexandra Roiba (2022). La Vanguardia: *La aplicación para ser productivo de forma eficiente: ¿qué es Notion y cómo empezar a usarlo?* [Enlace](https://www.lavanguardia.com/tecnologia/aplicaciones/20221101/8589567/aplicacion-productividad-que-es-notion-como-empezar-usarlo-pvlv.html)
+- Autor Desconocido (S.F): *¿Qué es slack?* [Enlace](https://slack.com/intl/es-es/help/articles/115004071768-%C2%BFQu%C3%A9-es-Slack-)
