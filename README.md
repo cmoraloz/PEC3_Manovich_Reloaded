@@ -35,8 +35,17 @@ Notion también introduce nuevas maneras de interactuar con los medios, como la 
 ## Re-descubriendo la hibridacion: Slack
 ![Slack](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/498px-Slack_Technologies_Logo.svg.png) 
 
+**Slack**, otra aplicación de gestión de tareas, también refleja los principios de hibridación mediática de Manovich. Al combinar mensajería instantánea, integraciones de aplicaciones y herramientas de colaboración en equipo, Slack ofrece a los usuarios un espacio digital unificado para la comunicación y la coordinación. La plataforma permite la integración de diversos medios, como texto, imágenes, archivos y enlaces, dentro de conversaciones en tiempo real y canales. Esta hibridación de medios no solo facilita la comunicación entre equipos distribuidos, sino que también favorece la interacción al permitir compartir de información de manera rápida.
 
-Slack, otra aplicación de gestión de tareas, también refleja los principios de hibridación mediática de Manovich. Al combinar mensajería instantánea, integraciones de aplicaciones y herramientas de colaboración en equipo, Slack ofrece a los usuarios un espacio digital unificado para la comunicación y la coordinación. La plataforma permite la integración de diversos medios, como texto, imágenes, archivos y enlaces, dentro de conversaciones en tiempo real y canales. Esta hibridación de medios no solo facilita la comunicación entre equipos distribuidos, sino que también favorece la interacción al permitir compartir de información de manera rápida.
+En el caso de Slack, estamos hablando también de una hibridación de medios, más que un caso particular de multimedia. Slack integra una variedad de medios y funcionalidades, incluyendo texto, imágenes, archivos, enlaces, y herramientas de colaboración en tiempo real, para crear un entorno de comunicación y trabajo integrado *(Manovich, 2013, p. 102)*.  Slack ofrece integraciones con una amplia gama de aplicaciones de terceros, permitiendo a los usuarios acceder a servicios externos y compartir información de manera fluida dentro de la plataforma, como son Google Drive, Microsoft OneDrive, Dropbox, Zoom, Trello, Asana, GitHub, Salesforce y Jira, entre otras.
+
+Esta integración de medios en Slack puede considerarse tanto una evolución del medio como una remezcla de medios. Por un lado, evoluciona al unificar diversas herramientas de comunicación y colaboración en un solo espacio digital, mientras que, por otro lado, remezcla elementos de diferentes plataformas para crear una experiencia de usuario cohesionada y eficiente *(Manovich, 2013, p. 95)*.
+
+La hibridación en Slack también es profunda en términos de la variedad de medios que combina y la forma en que interactúan entre sí para facilitar la comunicación y la colaboración. Esta integración crea un nuevo lenguaje de trabajo que permite a los usuarios interactuar de manera más fluida en un entorno digital unificado *(Manovich, 2013, p. 115)*.
+
+Si bien Slack puede no ser considerado una nueva plataforma de medios en el sentido tradicional, sí representa una nueva forma de comunicación y colaboración en el ámbito digital, lo que lo coloca en una categoría similar en términos de su impacto y alcance *(Manovich, 2013, p. 88)*.
+
+En cuanto a estrategias de hibridación, Slack utiliza la integración de aplicaciones de terceros, la mensajería instantánea, y las herramientas de colaboración en equipo para crear un entorno de trabajo adaptable *(Manovich, 2013, p. 79)*. Estas estrategias permiten a los usuarios interactuar con los medios de manera más dinámica y personalizada.
 
 ## Conclusiones
 
