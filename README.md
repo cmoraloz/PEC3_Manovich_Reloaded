@@ -28,6 +28,8 @@ Notion mezcla una variedad de medios y funcionalidades en su plataforma, lo que 
 
 Con esta información, podemos afirmar que Notion se trata de una hibridación de medios. A diferencia de la multimedia, que simplemente presenta diferentes tipos de medios, la hibridación implica una integración dinámica y funcional entre ellos para crear nuevas formas de experiencia y uso *(Manovich, 2013, p. 102)*.
 
+![Notion 2](https://i.pinimg.com/originals/9c/3b/11/9c3b1187f5db6e8e436c06b8b21211ae.png)
+
 Notion podría ser tanto como una evolución del medio como una remezcla de medios. Evoluciona al combinar y transformar funcionalidades tradicionales de distintas aplicaciones en una sola plataforma, y remezcla al integrar elementos diversos en nuevas configuraciones *(Manovich, 2013, p. 95)*.
 
 La hibridación en Notion es profunda, ya que permite a los usuarios interactuar con múltiples tipos de medios de maneras innovadoras, creando un nuevo lenguaje de productividad y organización. Esta plataforma podría considerarse una nueva plataforma de medios, similar al móvil, debido a su capacidad de unificar diversas herramientas en un solo entorno cohesivo y adaptable.
