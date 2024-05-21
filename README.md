@@ -76,3 +76,8 @@ Estas herramientas nos permiten adaptarnos a entornos de trabajo cada vez más c
 - Alexandra Roiba (2022). La Vanguardia: *La aplicación para ser productivo de forma eficiente: ¿qué es Notion y cómo empezar a usarlo?* [Enlace](https://www.lavanguardia.com/tecnologia/aplicaciones/20221101/8589567/aplicacion-productividad-que-es-notion-como-empezar-usarlo-pvlv.html)
 - Slack (S.F): *Página oficial*: [Enlace](https://slack.com/intl/es-es)
 - Autor Desconocido (S.F): *¿Qué es slack?* [Enlace](https://slack.com/intl/es-es/help/articles/115004071768-%C2%BFQu%C3%A9-es-Slack-)
+
+----
+
+
+**Licencia:** Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Image by vectorjuice](https://www.freepik.com/author/vectorjuice) on Freepik
