@@ -2,14 +2,13 @@
 ### *Notion y Slack a través de las gafas de Manovich*
 
 ## Introducción
-<img align="left" src="https://img.freepik.com/free-vector/workplace-culture-abstract-concept-vector-illustration-shared-values-belief-systems-attitude-work-company-team-corporate-culture-high-performance-employee-health-abstract-metaphor_335657-6126.jpg?w=826&t=st=1716217577~exp=1716218177~hmac=5b5490ac0c328cf722dd664df10e26a989f103d576233028ecb27de5a4171dc6" alt="Workplace culture" style="width: 42%; margin-right: 20px;">
+<img align="left" src="https://img.freepik.com/free-vector/workplace-culture-abstract-concept-vector-illustration-shared-values-belief-systems-attitude-work-company-team-corporate-culture-high-performance-employee-health-abstract-metaphor_335657-6126.jpg?w=826&t=st=1716217577~exp=1716218177~hmac=5b5490ac0c328cf722dd664df10e26a989f103d576233028ecb27de5a4171dc6" alt="Workplace culture" style="width: 45%; margin-right: 20px;">
 <br> La <b>hibridación mediática</b> emerge como un fenómeno de gran impacto en la manera en que concebimos, consumimos y creamos contenido digital. Este concepto, desde el punto de vista de Lev Manovich, no solo abarca la unión de medios digitales en una sola plataforma, sino que también redefine nuestra relación con la información, la comunicación y el entorno digital.
 
 Manovich, a través de sus libros, nos invita a observar la hibridación como un proceso evolutivo que va más allá de una mera fusión de medios. Los límites entre texto, imagen, sonido y movimiento se vuelven difusos, dando lugar a nuevas formas de expresión y experiencia. Esta combinación de medios no solo transforma la manera en que accedemos a la información, sino que también afecta a la forma en la que somos en internet y cómo nos relacionamos <i>(Manovich, 2013, p. 67)</i>.
-
-En este ensayo, exploraremos el fenómeno de la hibridación mediática desde el punto de vista de Manovich, analizando dos aplicaciones de gestión de tareas: <b>Notion y Slack</b>. Estos ejemplos nos ayudarán a entender mejor el concepto de hibridación, viendo cómo estas herramientas combinan diferentes tipos de medios y características para ofrecer experiencias de usuario más completas. 
 </br>
 </br>
+En este ensayo, exploraremos el fenómeno de la hibridación mediática desde el punto de vista de Manovich, analizando dos aplicaciones de gestión de tareas: <b>Notion y Slack</b>. 
 Hemos elegido estos ejemplos para explorar la hibridación de medios debido a la capacidad para integrar elementos en un entorno digital unificado. Ambas aplicaciones ofrecen experiencias de usuario versátiles al combinar diferentes tipos de medios y características para facilitar la comunicación, la colaboración y la gestión de tareas. 
 
 ### Hibridación de medios
@@ -48,7 +47,7 @@ En el caso de Slack, estamos hablando también de una hibridación de medios, m�
 
 Esta integración de medios en Slack puede considerarse tanto una evolución del medio como una remezcla de medios. Por un lado, evoluciona al unificar diversas herramientas de comunicación y colaboración en un solo espacio digital, mientras que, por otro lado, remezcla elementos de diferentes plataformas para crear una experiencia de usuario cohesionada y eficiente *(Manovich, 2013, p. 95)*.
 
-La hibridación en Slack también es profunda en términos de la variedad de medios que combina y la forma en que interactúan entre sí para facilitar la comunicación y la colaboración. Esta integración crea un nuevo lenguaje de trabajo que permite a los usuarios interactuar de manera más fluida en un entorno digital unificado *(Manovich, 2013, p. 115)*.
+La hibridación en Slack también es profunda en cuanto a la variedad de medios que combina y la forma en la que estos interactúan entre sí. Esta integración crea un nuevo lenguaje de trabajo que permite a los usuarios interactuar de manera más fluida en un entorno digital unificado *(Manovich, 2013, p. 115)*.
 
 Si bien Slack puede no ser considerado una nueva plataforma de medios en el sentido tradicional, sí representa una nueva forma de comunicación y colaboración en el ámbito digital, lo que la catalogaría de manera similar en términos de impacto y alcance *(Manovich, 2013, p. 88)*.
 
